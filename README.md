@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Naomi 👋</h1>
+<h3 align="center">Estudiante de Ingeniería Industrial | Data Science aplicada a procesos industriales</h3>
 
-<!--
-**naomi29ar/naomi29ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### 🔧 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudiante de Ingeniería Industrial y Electromecánica
+- 🤖 Actualmente cursando un programa en **IA Generativa, Machine Learning, NLP y Ciencia de Datos**
+- 📊 Construyendo mi perfil en **Ciencia de Datos**, con foco en aplicarla a problemas reales de industria: mantenimiento predictivo, control de calidad y optimización de procesos-
+  
+<br>
+
+
+</p>
