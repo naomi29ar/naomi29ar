@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Naomi 👋</h1>
+<h1 align="center">Hola! soy Naomi 👋</h1>
 <h3 align="center">Estudiante de Ingeniería Industrial | Data Science aplicada a procesos industriales</h3>
 
 <br>
